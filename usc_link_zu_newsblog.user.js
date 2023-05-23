@@ -30,15 +30,18 @@
     }
 
     function addLinkToNavbar() {
-        const newsLi = document.getElementById('news_li');
-        if (!newsLi) return;
+        const dropdownMenu = document.querySelector('.dropdown-menu[role="menu"][aria-labelledby="news"]');
+        if (!dropdownMenu) return;
 
         const link = document.createElement('a');
         link.href = 'https://aao-update.nirolp.de/news';
         link.target = '_blank';
         link.textContent = 'AAO News';
 
-        newsLi.appendChild(link);
+        const listItem = document.createElement('li');
+        listItem.appendChild(link);
+
+        dropdownMenu.appendChild(listItem);
     }
 
     window.addEventListener('load', function() {
