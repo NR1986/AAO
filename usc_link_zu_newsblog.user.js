@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Leitstellenspiel Erweiterung
 // @namespace    http://tampermonkey.net/
-// @version      1.2.1
+// @version      1.2.2
 // @description  Erweiterungen für das Leitstellenspiel
 // @author       NiRoLP
 // @match        https://www.leitstellenspiel.de/
