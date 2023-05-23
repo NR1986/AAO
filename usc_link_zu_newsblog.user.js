@@ -4,8 +4,10 @@
 // @version      1.2.4
 // @description  Erweiterungen für das Leitstellenspiel
 // @author       NiRoLP
-// @match        https://www.leitstellenspiel.de/
-// @grant        none
+// @match        https://www.leitstellenspiel.de/*
+// @run-at       document-idle
+// @grant        GM_info
+// @grant        unsafeWindow
 // ==/UserScript==
 
 
