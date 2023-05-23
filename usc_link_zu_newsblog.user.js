@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Leitstellenspiel Erweiterung
 // @namespace    http://tampermonkey.net/
-// @version      1.2.7
+// @version      1.2.8
 // @description  Erweiterungen für das Leitstellenspiel
 // @author       NiRoLP
 // @match        https://www.leitstellenspiel.de/*
@@ -31,19 +31,18 @@
     }
 
     function addLinkToNavbar() {
-        const dropdownMenu = document.querySelector('#news_li .dropdown-menu');
-        if (!dropdownMenu) return;
+        const navbarRight = document.querySelector('.nav.navbar-nav.navbar-right');
+        if (!navbarRight) return;
 
         const link = document.createElement('a');
         link.href = 'https://aao-update.nirolp.de/news';
-        link.target = '_blank';
+        link.className = 'btn btn-default navbar-btn';
         link.textContent = 'AAO News';
 
         const listItem = document.createElement('li');
-        listItem.role = 'presentation';
         listItem.appendChild(link);
 
-        dropdownMenu.appendChild(listItem);
+        navbarRight.appendChild(listItem);
     }
 
     window.addEventListener('load', function() {
