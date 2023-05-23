@@ -7,6 +7,8 @@
 // @match        https://www.leitstellenspiel.de/
 // @grant        none
 // ==/UserScript==
+
+
 (function() {
     'use strict';
 
@@ -29,8 +31,8 @@
     }
 
     function addLinkToNavbar() {
-        const dropdownMenu = document.querySelector('#news_li .dropdown-menu');
-        if (!dropdownMenu) return;
+        const newsLink = document.querySelector('#news_li a');
+        if (!newsLink) return;
 
         const link = document.createElement('a');
         link.href = 'https://aao-update.nirolp.de/news';
@@ -41,7 +43,7 @@
         listItem.role = 'presentation';
         listItem.appendChild(link);
 
-        dropdownMenu.appendChild(listItem);
+        newsLink.parentNode.insertBefore(listItem, newsLink.nextSibling);
     }
 
     window.addEventListener('load', function() {
