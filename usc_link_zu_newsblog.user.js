@@ -1,13 +1,12 @@
 // ==UserScript==
 // @name         Leitstellenspiel Erweiterung
 // @namespace    http://tampermonkey.net/
-// @version      1.2.2
+// @version      1.2.3
 // @description  Erweiterungen für das Leitstellenspiel
 // @author       NiRoLP
 // @match        https://www.leitstellenspiel.de/
 // @grant        none
 // ==/UserScript==
-
 (function() {
     'use strict';
 
@@ -30,7 +29,7 @@
     }
 
     function addLinkToNavbar() {
-        const dropdownMenu = document.querySelector('.dropdown-menu[role="menu"][aria-labelledby="news"]');
+        const dropdownMenu = document.querySelector('#news_li .dropdown-menu');
         if (!dropdownMenu) return;
 
         const link = document.createElement('a');
@@ -39,6 +38,7 @@
         link.textContent = 'AAO News';
 
         const listItem = document.createElement('li');
+        listItem.role = 'presentation';
         listItem.appendChild(link);
 
         dropdownMenu.appendChild(listItem);
