@@ -1,5 +1,20 @@
 #Änderungen in den einzelnen Versionen
 
+-v.2.2.3 [Einsatz Update]
+-- [Einsatz hinzugefügt] - Schilderbrücke eingestürzt
+-- [Einsatz hinzugefügt] - Kraftwerksbrand
+-- [Einsatz hinzugefügt] - Dammbruch 
+-- [Neue AAO-Kategorie hinzugefügt] - Stromausfälle
+-- [Einsatz hinzugefügt] - Stromausfall in Krankenhaus
+-- [Einsatz hinzugefügt] - Stromausfall in Feuerwehr-Wache
+-- [Einsatz hinzugefügt] - Stromausfall in Rettungsdienst-Wache
+-- [Einsatz hinzugefügt] - Stromausfall in THW-Wache
+-- [Einsatz hinzugefügt] - Stromausfall in Pflegeeinrichtung
+-- [Einsatz hinzugefügt] - Stromausfall im Rathaus
+-- [Einsatz hinzugefügt] - Stromausfall in Polizei-Wache
+-- [Einsatz hinzugefügt] - Stromausfall durch Kabelschaden
+-- [Einsatz geändert] - Name des Einsatzes "Fieber" wurde in "Hohes Fieber" geändert
+
 -v.2.2.2 [FW Fhz Update]
 -- [Fhz hinzugefügt] - [FW] "AB-E"
 -- [Fhz hinzugefügt] - [FW] "AB-Rüst"
