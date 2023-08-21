@@ -11,6 +11,20 @@ In den Einstellungen der AAO findest du unten rechts den Button „Eigene AAO-Ka
 *Bezeichnung* = **(Sortiernummer)**
 
 *Leer* = **(1)**; 
+*Allgemein* = **(20)**; 
+*Feuerwehr* = **(30)**; 
+*Flughafenfeuerwehr* = **(31)**; 
+*Werksfeuerwehr* = **(32)**; 
+*Rettungsdienst* = **(50)**; 
+*Polizei* = **(60)**; 
+*THW* = **(70)**; 
+*Wasserretung* = **(80)**; 
+*Bereitschaftspolizei* = **(90)**; 
+*SEG* = **(100)**; 
+*Kleine Einsätze* = **(110)**; 
+*Mittlere Einsätze* = **(120)**; 
+*Große Einsätze* = **(130)**; 
+*Großschadenslagen* = **(140)**; 
 *Wasserbedarf* = **(146)**; 
 *Ausbreitung* = **(148)**; 
 *Events* = **(150)**; 
