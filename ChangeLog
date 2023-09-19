@@ -1,5 +1,26 @@
 #Änderungen in den einzelnen Versionen
 
+-v.2.2.4 [Update]
+-- [Einsatz geändert] - Carportbrand wurde nun 1 x ELW1 hinzugefügt
+-- [Einsatz geändert] - GARTENLAUBENBRAND - fehlende Fhz hinzugefügt (1 FuStW, 1 ELW 1)
+-- [Einsatz geändert] - Geplatzte Wasserleitung - fehlende Fhz hinzugefügt (1 Rüstwagen oder HLF und 1 ELW 1) 
+-- [Einsatz geändert] - GEFAHRGUT-LKW VERUNGLÜCKT - fehlende Fhz hinzugefügt (1 LF und 1 ELW1 hinzugefügt)
+-- [Einsatz geändert] - Eingestürzter Funkmast - fehlende Fhz hinzugefügt (1 MzGW SB)
+-- [Einsatz geändert] - Kaminbrand - fehlende Fhz hinzugefügt (1 LF)
+-- [Einsatz geändert] - Kellerbrand - fehlende Fhz hinzugefügt (1 FuStW und 1 DLK 23) - zuviele Fhz entfernt (1 LF)
+-- [Einsatz geändert] - Brand Holzplotter - Bug gefixt statt 48k Liter werden nun nur noch  36k Liter geschickt
+-- [Einsatz geändert] - Flächenbrand - Wasserbedarf wurde von 3k auf 8k erweitert
+-- [Einsatz geändert] - Einbruch in Supermarkt - fehlende Fhz hinzugefügt (2 FuStW, 1 FuStW DGL und 1 LF)
+-- [Einsatz geändert] - Mannschaftsbus im Halteverbot - Statt 1 FuStW oder PolKrad wurde nur noch 1 FuStW geschickt
+-- [Einsatz geändert] - Brennender LKW -  fehlende Fhz hinzugefügt (2 LF und 1 FuStw)
+-- [Einsatz geändert] - Blitzeinschlag in Wohnhaus - Einsatz komplett überarbeitet
+-- [Einsatz hinzugefügt] - Unfall mit Reinigungsmitteln
+-- [Einsatz hinzugefügt] - Kellerbrand in Mehrfamilienhaus
+-- [Einsatz hinzugefügt] - Beschädigte Radarfalle
+-- [Einsatz hinzugefügt] - Drogenlabor gefunden
+-- [Einsatz hinzugefügt] - Gesprengter Geldautomat
+-- [Einsatz hinzugefügt] - Brand in Großwäscherei
+
 -v.2.2.3 [Einsatz Update]
 -- [Einsatz hinzugefügt] - Schilderbrücke eingestürzt
 -- [Einsatz hinzugefügt] - Kraftwerksbrand
