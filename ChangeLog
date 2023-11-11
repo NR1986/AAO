@@ -1,5 +1,52 @@
 #Änderungen in den einzelnen Versionen
 
+-v.2.2.7 [CaptnR00N & Kumpeltasche Update]
+-- [Einsatz hinzugefügt] Person zwischen Bahnsteig und Zug eingeklemmt
+-- [Einsatz hinzugefügt] PKW brennt in Tunnel
+-- [Einsatz hinzugefügt] LKW brennt in Tunnel
+-- [Einsatz hinzugefügt] Großbrand in Museum
+-- [Einsatz hinzugefügt] Havarie in Kläranlage
+-- [Fhz hinzugefügt] - [BPol] JuSchKo in Disco - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [Pol] PKW in Supermarkt - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [Pol] Massenschlägerei - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [Pol] Einbruch in Supermark - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [Pol] Überfall auf Spielhalle - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [Pol] Waffenentzug - fehlende Fhz hinzugefügt (3 MEK ZF, 1 MEK MTF und 1 DGL)
+-- [Fhz hinzugefügt] - [FW] Brand in Mehrfamilienhaus - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [FW] Brand in Parkhaus - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [FW] PKW in Zapfsäule - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [FW] Baum auf Zug - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [FW] Pfefferspray in Bahn - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [FW] Blausäureaustritt - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [FW] Dachstuhlbrand - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [FW] Unbekannte Substanz - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [FW] Saunabrand - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [FW] Kellerbrand in Mehrfamilienhaus - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [FW] Verkehrsunfall Person eingeklemmt - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [FW] Brennender Stall - fehlende Fhz hinzugefügt (1 DGL)
+-- [Fhz hinzugefügt] - [FW] Großer Waldbrand - fehlende Fhz hinzugefügt (1 Fustw)
+-- [Fhz hinzugefügt] - [FW] Baum auf PKW - fehlende Fhz hinzugefügt (1 LF)
+-- [Fhz hinzugefügt] - [FW] Brennende Trafostation - fehlende Fhz hinzugefügt (1 Fustw)
+-- [Fhz hinzugefügt] - [FW] Überfall auf Spielhalle - fehlende Fhz hinzugefügt (6 Fustw und 1 DGL)
+-- [Fhz hinzugefügt] - [FFW] Flugzeugreifenplatzer - fehlende Fhz hinzugefügt (2 FLF und 1 RTF)
+
+-v.2.2.6 [Dronen Update]
+-- [Einsatz geändert] Einbruch auf Betriebsgel. - fehlende Fhz hinzugefügt (1 DGL)
+-- [Einsatz geändert] Säureangriff auf Hauswand - fehlende Fhz hinzugefügt (1 DGL)
+-- [Einsatz geändert] Zugriff bei Geldübergabe - fehlende Fhz hinzugefügt (1 DGL)
+-- [Einsatz geändert] Monster ausgebrochen - fehlende Fhz hinzugefügt (1 DGL)
+-- [Einsatz geändert] Brand in Gebäudekomplex - fehlende Fhz hinzugefügt (4 FuStw, 5 LF, 2 DLK, 1 ELW, 1 DGL)
+
+-v.2.2.5 [Update]
+-- [Einsatz geändert] -  Verletzte Person auf HSM - fehlende Fhz hinzugefügt (1 DLK23)
+-- [Einsatz geändert] - Verkehrsunfall - fehlende Fhz hinzugefügt (1 FuStW, 1 LF und 1 RW/HLF)
+-- [Einsatz hinzugefügt] - Brennender Abfallcontainer
+-- [Einsatz hinzugefügt] - Harnröhrenblutung
+-- [Fhz hinzugefügt] - [THW] MTW-Tr UL
+-- [Fhz hinzugefügt] - [FW] MTF-Drohne
+-- [Fhz hinzugefügt] - [FW] ELW Drohne
+-- [Fhz hinzugefügt] - [SEG] GW UAS
+
 -v.2.2.4 [Update]
 -- [Einsatz geändert] - Carportbrand wurde nun 1 x ELW1 hinzugefügt
 -- [Einsatz geändert] - GARTENLAUBENBRAND - fehlende Fhz hinzugefügt (1 FuStW, 1 ELW 1)
