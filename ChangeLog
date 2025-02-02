@@ -1,5 +1,9 @@
 #Änderungen in den einzelnen Versionen
 
+-v.2.3.0 [Pre-Release] [Vorbereitung für das große Update]
+-- [Neue AAO-Kategorie hinzugefügt] - KriPo (Wert 62)
+
+
 -v.2.2.7 [CaptnR00N & Kumpeltasche Update]
 -- [Einsatz hinzugefügt] Person zwischen Bahnsteig und Zug eingeklemmt
 -- [Einsatz hinzugefügt] PKW brennt in Tunnel
@@ -72,7 +76,7 @@
 -- [Einsatz hinzugefügt] - Schilderbrücke eingestürzt
 -- [Einsatz hinzugefügt] - Kraftwerksbrand
 -- [Einsatz hinzugefügt] - Dammbruch 
--- [Neue AAO-Kategorie hinzugefügt] - Stromausfälle
+-- [Neue AAO-Kategorie hinzugefügt] - Stromausfälle (Wert 152)
 -- [Einsatz hinzugefügt] - Stromausfall in Krankenhaus
 -- [Einsatz hinzugefügt] - Stromausfall in Feuerwehr-Wache
 -- [Einsatz hinzugefügt] - Stromausfall in Rettungsdienst-Wache
